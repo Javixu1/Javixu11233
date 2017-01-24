@@ -12,6 +12,8 @@ import javafx.stage.Stage;
 /**
  * A example of the use of javafx and scene builder with eclipse
  * @author javierdeandres
+ * @version 1.0.2
+ * @see MainControl.java
  *
  */
 
