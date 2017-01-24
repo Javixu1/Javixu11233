@@ -14,7 +14,11 @@ public class MainControl2 {
 	 @FXML
 	    private void initialize() {
 	    }
-
+	 /**
+	  * show image is a method that launch the second windows
+	  * 
+	  */
+	 
 	 public void showImage() {
 		 try {
 	            // Load the fxml file and create a new stage for the popup.

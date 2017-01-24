@@ -37,22 +37,22 @@
                   <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <ImageView fitHeight="104.0" fitWidth="299.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="104.0" fitWidth="299.0" pickOnBounds="true" preserveRatio="true" GridPane.halignment="LEFT" GridPane.valignment="TOP">
                      <image>
                         <Image url="@../../../../../Pictures/abg-299x104.png" />
                      </image>
                   </ImageView>
-                  <ImageView fitHeight="107.0" fitWidth="300.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+                  <ImageView fitHeight="107.0" fitWidth="300.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.valignment="TOP">
                      <image>
                         <Image url="@../../../../../Pictures/Strategy_of_Main_Street_of_Petropavlivska_Borshagivka_PRES11-304x107.jpg" />
                      </image>
                   </ImageView>
-                  <ImageView fitHeight="102.0" fitWidth="301.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1">
+                  <ImageView fitHeight="102.0" fitWidth="301.0" pickOnBounds="true" preserveRatio="true" GridPane.halignment="LEFT" GridPane.rowIndex="1" GridPane.valignment="BOTTOM">
                      <image>
                         <Image url="@../../../../../Pictures/новый-год-кпд_15х5-301x102.gif" />
                      </image>
                   </ImageView>
-                  <ImageView fitHeight="103.0" fitWidth="303.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                  <ImageView fitHeight="103.0" fitWidth="303.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1" GridPane.valignment="BOTTOM">
                      <image>
                         <Image url="@../../../../../Pictures/logo-303x103.png" />
                      </image>
